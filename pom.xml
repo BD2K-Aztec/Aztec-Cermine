@@ -64,6 +64,11 @@
             </build>
         </profile>
     </profiles>
+    <repository>
+	<id>icm</id>
+	<name>ICM repository</name>
+	<url>http://maven.icm.edu.pl/artifactory/repo</url>
+    </repository>
 
     <dependencies>
         <dependency>
